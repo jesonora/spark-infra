@@ -1,6 +1,10 @@
-# spark-course
+# Spark Infra Playground
 
-![diagram](img/diagram.png)
+## Docker Overview
+![docker](img/docker-overview.png)
+
+## Architecture
+![architecture](img/infra.png)
 
 ## Run
 
