@@ -10,6 +10,7 @@ RUN mkdir -p ${shared_workspace} && \
     apt-get install -y python3 && \
     apt-get install -y git && \
     apt-get install -y cron && \
+    apt-get install -y vim && \
     ln -s /usr/bin/python3 /usr/bin/python && \
     rm -rf /var/lib/apt/lists/*
 
