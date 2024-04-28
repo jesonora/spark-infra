@@ -15,4 +15,4 @@
     sh build.sh
     ```
 4. Run `docker-compose up`
-5. Go to local [Jupyerlab](http://localhost:8890/tree?)
+5. Go to local [Jupyerlab](http://localhost:8890/lab)
